@@ -2,10 +2,9 @@
 
 A romantic web experience with "Those Eyes" — built as a Valentine's Day special.
 
-![Preview](<img src="/image.png" width="1353" height="632" alt="image"  />
-)  
+![V4l3nt1n3s Preview](image.png)
+
 *(Replace with actual screenshot later)*
-src="/image.png"
 
 ## ✨ Features
 
