@@ -35,13 +35,13 @@ text##
 ## 📦 Setup & Run Locally
 
 
-# Clone the repository
+- Clone the repository
 git clone https://github.com/TooEzra/V4l3nt1n3s-.git
 
-# Navigate to project folder
+- Navigate to project folder
 cd V4l3nt1n3s-
 
-# Open in browser
+- Open in browser
 open index.html
 Or simply double-click index.html
 
