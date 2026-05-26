@@ -22,7 +22,10 @@ V4l3nt1n3s-/
 ├── Those eyes.mp3      # Background music
 ├── package.json        # Project configuration
 └── README.md
-text## 🛠️ Technologies Used
+text##
+
+----
+🛠️ Technologies Used
 
 - HTML5
 - CSS3
@@ -31,7 +34,7 @@ text## 🛠️ Technologies Used
 
 ## 📦 Setup & Run Locally
 
-```bash
+
 # Clone the repository
 git clone https://github.com/TooEzra/V4l3nt1n3s-.git
 
@@ -41,9 +44,12 @@ cd V4l3nt1n3s-
 # Open in browser
 open index.html
 Or simply double-click index.html
-🎵 Music Credit
+
+-----
+## 🎵 Music Credit
 
 Song: Those Eyes
 
-📝 License
+-----
+## 📝 License
 This project is open-source and free to use.
