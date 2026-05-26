@@ -2,8 +2,7 @@
 
 A romantic web experience with "Those Eyes" — built as a Valentine's Day special.
 
-![Preview](https://via.placeholder.com/800x400/ff69b4/ffffff?text=V4l3nt1n3s)  
-*(Replace with actual screenshot later)*
+![V4l3nt1n3s Preview](image.png)
 
 ## ✨ Features
 
@@ -14,7 +13,7 @@ A romantic web experience with "Those Eyes" — built as a Valentine's Day speci
 
 ## 🚀 Live Demo
 
-[View Live](https://tooezra.github.io/V4l3nt1n3s-/) *(Update this link once you enable GitHub Pages)*
+[View Live](https://d3v-coder.github.io/Valentines-web/) *(Update this link once you enable GitHub Pages)*
 
 ## 📁 Project Structure
 V4l3nt1n3s-/
