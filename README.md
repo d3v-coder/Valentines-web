@@ -4,8 +4,6 @@ A romantic web experience with "Those Eyes" — built as a Valentine's Day speci
 
 ![V4l3nt1n3s Preview](image.png)
 
-*(Replace with actual screenshot later)*
-
 ## ✨ Features
 
 - Beautiful animated Valentine’s Day web page
